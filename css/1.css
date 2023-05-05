@@ -17,3 +17,9 @@ body::before{
 
   .bg-primary{
       background-color: #36244c5 !important;}
+
+
+  footer p.lead {
+        font-size: 0.8rem;
+        line-height: 1.2;
+      }
