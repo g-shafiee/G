@@ -22,4 +22,12 @@ body::before{
   footer p.lead {
         font-size: 0.8rem;
         line-height: 1.2;
+       position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
       }
